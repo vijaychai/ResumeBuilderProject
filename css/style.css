@@ -92,6 +92,15 @@ a {
   display: block;
 }
 
+#education h3 a {
+  color: #1199c3;
+  font-size: 14px;
+  text-decoration: none;
+  margin-top: 10px;
+  display: block;
+  font-style: normal;
+}
+
 .welcome-message {
   font-style: italic;
   font-size: 18px;
@@ -165,6 +174,8 @@ ul {
 
 img {
   padding: 10px;
+  height: 200px;
+  width:200px;
 }
 
 span {
